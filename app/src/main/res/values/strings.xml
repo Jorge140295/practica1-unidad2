@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">practica1 unidad2</string>
+        <string name="bcero">0</string>
+        <string name="buno">1</string>
+        <string name="bdos">2</string>
+        <string name="btres">3</string>
+        <string name="bcuatro">4</string>
+        <string name="bcinco">5</string>
+        <string name="bseis">6</string>
+        <string name="bsiete">7</string>
+        <string name="bocho">8</string>
+        <string name="bnueve">9</string>
+        <string name="bsumar">+</string>
+        <string name="bresta">-</string>
+        <string name="bmultiplicacion">*</string>
+        <string name="bdivision">/</string>
+        <string name="borrartodo">DEL</string>
+        <string name="bigual">=</string>
+        <string name="bpunto">.</string>
+
+
+
+
+</resources>
