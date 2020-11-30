@@ -35,6 +35,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#052BFF"
+                    android:onClick="bsiete"
                     android:text="@string/bsiete"
                     android:textSize="30sp" />
 
@@ -45,6 +46,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#0329FD"
+                    android:onClick="bocho"
                     android:text="@string/bocho"
                     android:textSize="30sp" />
 
@@ -55,6 +57,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#0228FF"
+                    android:onClick="bnueve"
                     android:text="@string/bnueve"
                     android:textSize="30sp" />
 
@@ -65,6 +68,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#F81302"
+                    android:onClick="bdivision"
                     android:text="@string/bdivision"
                     android:textSize="30sp" />
             </TableRow>
@@ -80,6 +84,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#0228FD"
+                    android:onClick="bcuatro"
                     android:text="@string/bcuatro"
                     android:textSize="30sp" />
 
@@ -90,6 +95,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#0329FD"
+                    android:onClick="bcinco"
                     android:text="@string/bcinco"
                     android:textSize="30sp" />
 
@@ -100,6 +106,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#0228FA"
+                    android:onClick="bseis"
                     android:text="@string/bseis"
                     android:textSize="30sp" />
 
@@ -110,6 +117,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#FB1302"
+                    android:onClick="bmultiplicacion"
                     android:text="@string/bmultiplicacion"
                     android:textSize="30sp" />
             </TableRow>
@@ -125,6 +133,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#0228FF"
+                    android:onClick="buno"
                     android:text="@string/buno"
                     android:textSize="30sp" />
 
@@ -135,6 +144,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#0328FB"
+                    android:onClick="bdos"
                     android:text="@string/bdos"
                     android:textSize="30sp" />
 
@@ -145,6 +155,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#0329FD"
+                    android:onClick="btres"
                     android:text="@string/btres"
                     android:textSize="30sp" />
 
@@ -155,6 +166,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#FA1302"
+                    android:onClick="bresta"
                     android:text="@string/bresta"
                     android:textSize="30sp" />
             </TableRow>
@@ -170,6 +182,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#032AFF"
+                    android:onClick="bpunto"
                     android:text="@string/bpunto"
                     android:textSize="30sp" />
 
@@ -180,6 +193,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#0329FF"
+                    android:onClick="bcero"
                     android:text="@string/bcero"
                     android:textSize="30sp" />
 
@@ -190,6 +204,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#FB1403"
+                    android:onClick="borrartodo"
                     android:text="@string/borrartodo"
                     android:textSize="30sp" />
 
@@ -200,6 +215,7 @@
                     android:layout_margin="2dp"
                     android:layout_weight="1"
                     android:background="#FB1403"
+                    android:onClick="bsumar"
                     android:text="@string/bsumar"
                     android:textSize="30sp" />
             </TableRow>
@@ -216,6 +232,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:background="#FD1302"
+                android:onClick="bigual"
                 android:text="@string/bigual"
                 android:textSize="30sp" />
         </LinearLayout>
