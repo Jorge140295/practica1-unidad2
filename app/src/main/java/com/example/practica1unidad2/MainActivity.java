@@ -15,9 +15,9 @@ Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
             @Override
             public void run() {
-            Intent i = new Intent(MainActivity.this,MainActivity2.class);
-            startActivity(i);
-            finish();
+                Intent i = new Intent(MainActivity.this,MainActivity2.class);
+                startActivity(i);
+                finish();
             }
         },1000);
     }
